@@ -1,0 +1,14 @@
+@charset "UTF-8";
+html,body,ul,li{
+	margin: 0px;
+	padding: 0px;
+}
+
+li{
+	list-style: none;
+}
+
+dl, dt, dd{
+	margin: 0px;
+	padding: 0px;
+}
